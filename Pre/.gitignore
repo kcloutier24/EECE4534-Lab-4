@@ -1,0 +1,9 @@
+# 
+*.o
+*.ko
+# generated during compilation -> ignore 
+kpwm.mod.c
+Module.symvers
+modules.order
+*.cmd
+.tmp_versions/
